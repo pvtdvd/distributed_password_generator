@@ -1,0 +1,12 @@
+{
+  "master": {
+    "ip": "192.168.1.70",
+    "port": 9001
+  },
+  "workers": [
+    {"name": "worker1", "ip": "192.168.1.151", "user": "root"},
+    {"name": "worker3", "ip": "192.168.1.153", "user": "root"},
+    {"name": "worker4", "ip": "192.168.1.154", "user": "root"},
+    {"name": "worker5", "ip": "192.168.1.155", "user": "root"}
+  ]
+}
